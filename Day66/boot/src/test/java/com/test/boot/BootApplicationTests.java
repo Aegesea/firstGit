@@ -11,6 +11,7 @@ public class BootApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("aaaaa");
 	}
 
 }
