@@ -1,0 +1,8 @@
+category.getDataService({
+  "data":[
+    {"u":"/a.html","n":"手机","i":[{"u":"/a.html","n":"三星","i":[]},{"u":"/a.html","n":"苹果","i":[]}
+    ]},
+    {"u":"/a.html","n":"服装","i":[{"u":"/a.html","n":"女装","i":[]}
+    ]}
+  ]
+})
